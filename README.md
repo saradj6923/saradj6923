@@ -24,23 +24,23 @@ My name is Saravana Kumar and I'm a software developer engineer. I'm from India,
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 
-
-
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/saradj6923">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saradj6923&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/saradj6923">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saradj6923&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saravana's GitHub Stats" />
-</a>
-
-
-
-<a href="https://github.com/saradj6923/Compose-Input-A-Demonstration-Of-Text-Input-And-Validation-With-Android-Compose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saradj6923&repo=Compose-Input-A-Demonstration-Of-Text-Input-And-Validation-With-Android-Compose&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-   
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <a href="https://github.com/saradj6923">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saradj6923&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/saradj6923/Secured-Net-Banking">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saradj6923&repo=Secured-Net-Banking&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&hide_border=true&hide_title=true&custom_title=Languages:%20PHP%2030.1%%20|%20CSS%2027.8%%20|%20JavaScript%2024.8%%20|%20HTML%209.7%%20|%20Hack%207.6%" />
+    </a>
+    <a href="https://github.com/saradj6923/Compose-Input-A-Demonstration-Of-Text-Input-And-Validation-With-Android-Compose">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saradj6923&repo=Compose-Input-A-Demonstration-Of-Text-Input-And-Validation-With-Android-Compose&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </a>
+  </div>
+</div>
 
 <!-- links to social media icons -->
 
@@ -55,12 +55,10 @@ My name is Saravana Kumar and I'm a software developer engineer. I'm from India,
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/saradj6923
 [3]: https://www.linkedin.com/in/saravana-kumar-b232b229a/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
